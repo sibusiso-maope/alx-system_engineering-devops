@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff "$working_dir"
+chown -hR vincent:staff ./
