@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" reddit api"""i
+""" reddit api"""
 
 import json
 import requests
