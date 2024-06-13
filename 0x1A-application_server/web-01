@@ -1,3 +1,8 @@
-#!/usr/bin/env bash
-# Bash script that uses ssh to connect to your server using the private
-ssh -i ~/.ssh/id_rsa ubuntu@100.25.135.246
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABAggjxbBz
+k6AGOUMirqn30HAAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIBFLXan0v2EeDlHd
+v5OacqPw3zH3EToqZuwldyAU2Xe6AAAAoGhHAUQP4NF2RN6lArLIXJO9ebV/Dio1YmQFQH
+P9WbcsRQkzIzUHH36nLFp/64Wnp9Zza5ZI90oJvlUYndtKypUgwaqtJcO67Lq5iAN0uaIC
+44NNpFcor3ECSPeKBoqrjDiOn3JG4XmJaIgjy8RmM5g8I96X2XqKQwXbxkoP+J6j+7m7V/
+GfCF1vm+dJr4enua9NY3HJx1KQ8GdeMS9FJvE=
+-----END OPENSSH PRIVATE KEY-----
